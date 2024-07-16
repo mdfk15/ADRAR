@@ -3,5 +3,8 @@ TPs et exercices - Cours Adrar
 
 ## Indice
 
-- TP veille: branch **`veille`**
-    * exo1
+- Recherche
+    * Rechercher un dépôt sur GitHub
+    * Éditer HTML
+        * Ajouter contenu concernant la recherche
+
